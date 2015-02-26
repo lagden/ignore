@@ -1,0 +1,7 @@
+ # exclude everything except directory foo/bar
+/*
+!.gitignore
+!a.1
+
+!/xxx
+!/zzz
